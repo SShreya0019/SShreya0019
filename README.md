@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Shreya 👋
 
 <!--
 **SShreya0019/SShreya0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on developing my skills in java.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- 👍 Prounouns: She/Her 
+- 💻 I'm currently working on developing my skills in java
+- 📚 I'm currently learning coding terms and rules as well as how to code
+- 💡 Fun Fact: My favorite subjects are STEM related subjects
+- 🎵 Hobbies: I like listening to music and learning dance choreographies
